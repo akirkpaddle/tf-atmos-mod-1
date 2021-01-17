@@ -1,2 +1,3 @@
 # tf-atmos-mod-1
-Terraform module for testing atmos.
+
+A terraform module for testing atmos.
